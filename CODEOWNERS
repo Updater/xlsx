@@ -1,0 +1,6 @@
+# CODEOWNERS file
+#
+# This repo is a fork of an upstream open-source project, vendored/used
+# internally for CI tooling. devops owns and maintains it on Updater's
+# side (DO-7215).
+* @updater/devops
